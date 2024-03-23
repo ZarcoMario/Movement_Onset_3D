@@ -1,2 +1,1 @@
-# Movement_Onset_3D
- 
+# Movement Onset Time Detection Method for 3D data
